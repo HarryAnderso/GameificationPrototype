@@ -1,0 +1,4485 @@
+fileFormatVersion: 2
+guid: 027be8a7edce68444bebf3892958ca18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8943450210212800536
+    second: Morse_0
+  - first:
+      213: -623877327038670872
+    second: Morse_1
+  - first:
+      213: 5165201860346394016
+    second: Morse_2
+  - first:
+      213: 8306354481605217598
+    second: Morse_3
+  - first:
+      213: 1626436714108143193
+    second: Morse_4
+  - first:
+      213: 650293743108137923
+    second: Morse_5
+  - first:
+      213: -316131870344319986
+    second: Morse_6
+  - first:
+      213: -2379695864817306337
+    second: Morse_7
+  - first:
+      213: -7167993999287464444
+    second: Morse_8
+  - first:
+      213: 2580969890052671405
+    second: Morse_9
+  - first:
+      213: -1988659913696788008
+    second: Morse_10
+  - first:
+      213: 7428450097483982341
+    second: Morse_11
+  - first:
+      213: -3712929403886679191
+    second: Morse_12
+  - first:
+      213: -3761667009791529096
+    second: Morse_13
+  - first:
+      213: -2719620405098644279
+    second: Morse_14
+  - first:
+      213: -6379925336288371094
+    second: Morse_15
+  - first:
+      213: 7992041261755682823
+    second: Morse_16
+  - first:
+      213: 9141949327746423262
+    second: Morse_17
+  - first:
+      213: 830598477130804840
+    second: Morse_18
+  - first:
+      213: 1202017473003975202
+    second: Morse_19
+  - first:
+      213: -2583791858906874592
+    second: Morse_20
+  - first:
+      213: -2359305136980828438
+    second: Morse_21
+  - first:
+      213: 4481917246775821825
+    second: Morse_22
+  - first:
+      213: -646108867136469070
+    second: Morse_23
+  - first:
+      213: 3840503054059420325
+    second: Morse_24
+  - first:
+      213: -3549808657410702293
+    second: Morse_25
+  - first:
+      213: -6226782903779900668
+    second: Morse_26
+  - first:
+      213: -7593693822109202329
+    second: Morse_27
+  - first:
+      213: 5096270007176787051
+    second: Morse_28
+  - first:
+      213: -5914249885890146216
+    second: Morse_29
+  - first:
+      213: 1873750450466303589
+    second: Morse_30
+  - first:
+      213: 4618351856013643799
+    second: Morse_31
+  - first:
+      213: -5826754586534988148
+    second: Morse_32
+  - first:
+      213: -6304757337711320312
+    second: Morse_33
+  - first:
+      213: -9054618335575082840
+    second: Morse_34
+  - first:
+      213: -5885237238836259541
+    second: Morse_35
+  - first:
+      213: -1779308761656847033
+    second: Morse_36
+  - first:
+      213: -229618937936704611
+    second: Morse_37
+  - first:
+      213: 436182319992488601
+    second: Morse_38
+  - first:
+      213: -1925316152416806901
+    second: Morse_39
+  - first:
+      213: -1799089502905101054
+    second: Morse_40
+  - first:
+      213: 8830407960583820564
+    second: Morse_41
+  - first:
+      213: 3290728442633399963
+    second: Morse_42
+  - first:
+      213: 2484255466085586439
+    second: Morse_43
+  - first:
+      213: -793492254257707425
+    second: Morse_44
+  - first:
+      213: -7867747407330440283
+    second: Morse_45
+  - first:
+      213: 5661894189634768391
+    second: Morse_46
+  - first:
+      213: -3110486075156078429
+    second: Morse_47
+  - first:
+      213: 7976424358721679912
+    second: Morse_48
+  - first:
+      213: 6837079624741588678
+    second: Morse_49
+  - first:
+      213: 4837199634923583206
+    second: Morse_50
+  - first:
+      213: -1780848990434757817
+    second: Morse_51
+  - first:
+      213: -8933128117015150209
+    second: Morse_52
+  - first:
+      213: -6234494826344869699
+    second: Morse_53
+  - first:
+      213: -6829503943088386314
+    second: Morse_54
+  - first:
+      213: -6759236920925337918
+    second: Morse_55
+  - first:
+      213: 5649736153761955107
+    second: Morse_56
+  - first:
+      213: -2898121935505580073
+    second: Morse_57
+  - first:
+      213: -3895248517329407011
+    second: Morse_58
+  - first:
+      213: 6894966077258271307
+    second: Morse_59
+  - first:
+      213: 1500999756552352472
+    second: Morse_60
+  - first:
+      213: -3368602672987341397
+    second: Morse_61
+  - first:
+      213: 7746588823183060489
+    second: Morse_62
+  - first:
+      213: -7613917040212181493
+    second: Morse_63
+  - first:
+      213: -2531585595657354089
+    second: Morse_64
+  - first:
+      213: 763162597598662219
+    second: Morse_65
+  - first:
+      213: -1590686021302271924
+    second: Morse_66
+  - first:
+      213: 8313420296838865565
+    second: Morse_67
+  - first:
+      213: 7445900606935691306
+    second: Morse_68
+  - first:
+      213: -5171656484229176131
+    second: Morse_69
+  - first:
+      213: 8330776442332919567
+    second: Morse_70
+  - first:
+      213: -2107673972192517850
+    second: Morse_71
+  - first:
+      213: 3253816074519181479
+    second: Morse_72
+  - first:
+      213: -8780160824461082841
+    second: Morse_73
+  - first:
+      213: -3549469485951566705
+    second: Morse_74
+  - first:
+      213: -6837640098194358639
+    second: Morse_75
+  - first:
+      213: 3006040901039226464
+    second: Morse_76
+  - first:
+      213: -4064719427170109416
+    second: Morse_77
+  - first:
+      213: -2154195341131950832
+    second: Morse_78
+  - first:
+      213: -1726253235156344859
+    second: Morse_79
+  - first:
+      213: -8109521547868028615
+    second: Morse_80
+  - first:
+      213: -403538871839205937
+    second: Morse_81
+  - first:
+      213: 8891753689611660010
+    second: Morse_82
+  - first:
+      213: -982483947759867907
+    second: Morse_83
+  - first:
+      213: -2018689759776793613
+    second: Morse_84
+  - first:
+      213: 1819311424063848466
+    second: Morse_85
+  - first:
+      213: 5585687701131954533
+    second: Morse_86
+  - first:
+      213: 4830877283660968141
+    second: Morse_87
+  - first:
+      213: 8493947805148052454
+    second: Morse_88
+  - first:
+      213: -4037171973637009484
+    second: Morse_89
+  - first:
+      213: 2525616116835913804
+    second: Morse_90
+  - first:
+      213: -1493343195316175498
+    second: Morse_91
+  - first:
+      213: 8979206222906987593
+    second: Morse_92
+  - first:
+      213: -5864123803068914940
+    second: Morse_93
+  - first:
+      213: -835118213399197836
+    second: Morse_94
+  - first:
+      213: 3030018843971569646
+    second: Morse_95
+  - first:
+      213: 1385065871719311990
+    second: Morse_96
+  - first:
+      213: 6517553259643079684
+    second: Morse_97
+  - first:
+      213: -8501655583933920654
+    second: Morse_98
+  - first:
+      213: 3838577030191932160
+    second: Morse_99
+  - first:
+      213: -6306571295279323500
+    second: Morse_100
+  - first:
+      213: 1513569853167243935
+    second: Morse_101
+  - first:
+      213: 4772762304889577956
+    second: Morse_102
+  - first:
+      213: 968826056344422828
+    second: Morse_103
+  - first:
+      213: 7378778150880670082
+    second: Morse_104
+  - first:
+      213: 9036049796628336606
+    second: Morse_105
+  - first:
+      213: 4126343184890417600
+    second: Morse_106
+  - first:
+      213: -3544136402964994232
+    second: Morse_107
+  - first:
+      213: 305030124071257432
+    second: Morse_108
+  - first:
+      213: -4720620964002255801
+    second: Morse_109
+  - first:
+      213: 5681032654680320391
+    second: Morse_110
+  - first:
+      213: -7583585511583490566
+    second: Morse_111
+  - first:
+      213: -4063880422040824742
+    second: Morse_112
+  - first:
+      213: -5846483642134073971
+    second: Morse_113
+  - first:
+      213: -8774772814038430344
+    second: Morse_114
+  - first:
+      213: 8752205760547274048
+    second: Morse_115
+  - first:
+      213: 7921086371357749864
+    second: Morse_116
+  - first:
+      213: 1071186780678617860
+    second: Morse_117
+  - first:
+      213: 3743207403781302714
+    second: Morse_118
+  - first:
+      213: -3407220737331373997
+    second: Morse_119
+  - first:
+      213: -3507919621549702943
+    second: Morse_120
+  - first:
+      213: 6497278556082964533
+    second: Morse_121
+  - first:
+      213: 6258288670644139126
+    second: Morse_122
+  - first:
+      213: -6944444775470181507
+    second: Morse_123
+  - first:
+      213: -8247055807063761287
+    second: Morse_124
+  - first:
+      213: -7985914564644559914
+    second: Morse_125
+  - first:
+      213: 7890149821595289884
+    second: Morse_126
+  - first:
+      213: -1175551338786668023
+    second: Morse_127
+  - first:
+      213: 6435069932383159117
+    second: Morse_128
+  - first:
+      213: -6294752903415550993
+    second: Morse_129
+  - first:
+      213: -7765383824431736231
+    second: Morse_130
+  - first:
+      213: -1844881638341969106
+    second: Morse_131
+  - first:
+      213: -4869455870313921208
+    second: Morse_132
+  - first:
+      213: 6284547098356484976
+    second: Morse_133
+  - first:
+      213: 512421396465447925
+    second: Morse_134
+  - first:
+      213: -6259412470025772908
+    second: Morse_135
+  - first:
+      213: -1419890179725764646
+    second: Morse_136
+  - first:
+      213: -6743000033623795688
+    second: Morse_137
+  - first:
+      213: -7909553149048541824
+    second: Morse_138
+  - first:
+      213: 4806181321888479481
+    second: Morse_139
+  - first:
+      213: 8933757622128077888
+    second: Morse_140
+  - first:
+      213: 3912197295521190783
+    second: Morse_141
+  - first:
+      213: -7412933606167988298
+    second: Morse_142
+  - first:
+      213: -4086242614737181321
+    second: Morse_143
+  - first:
+      213: -8724044448011493472
+    second: Morse_144
+  - first:
+      213: -147715857832247730
+    second: Morse_145
+  - first:
+      213: 5507953595111970295
+    second: Morse_146
+  - first:
+      213: 4628022564500056170
+    second: Morse_147
+  - first:
+      213: -8992886915752044686
+    second: Morse_148
+  - first:
+      213: -3229912117090768276
+    second: Morse_149
+  - first:
+      213: 7210322270979788465
+    second: Morse_150
+  - first:
+      213: -545403662384591299
+    second: Morse_151
+  - first:
+      213: 8351970821166833808
+    second: Morse_152
+  - first:
+      213: 7872371559575486357
+    second: Morse_153
+  - first:
+      213: 4586519667242724859
+    second: Morse_154
+  - first:
+      213: 2382667524488539843
+    second: Morse_155
+  - first:
+      213: -5239255702562467487
+    second: Morse_156
+  - first:
+      213: 1731829828940367089
+    second: Morse_157
+  - first:
+      213: -243694967531906802
+    second: Morse_158
+  - first:
+      213: -2281989870687827324
+    second: Morse_159
+  - first:
+      213: -6680786267443216972
+    second: Morse_160
+  - first:
+      213: 4078393886909122137
+    second: Morse_161
+  - first:
+      213: -8647864678532876973
+    second: Morse_162
+  - first:
+      213: -9032641386958235033
+    second: Morse_163
+  - first:
+      213: 6031026774519299344
+    second: Morse_164
+  - first:
+      213: -4566897743846513689
+    second: Morse_165
+  - first:
+      213: -5929181002441646226
+    second: Morse_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Morse_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818602ee4948d1c70800000000000000
+      internalID: 8943450210212800536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 390
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7907260ea8757f0800000000000000
+      internalID: -623877327038670872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 390
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5322fb9bb7ea740800000000000000
+      internalID: 5165201860346394016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 390
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d8d8e5469164370800000000000000
+      internalID: 8306354481605217598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 390
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956c1120393429610800000000000000
+      internalID: 1626436714108143193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 390
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3ae95c6be460900800000000000000
+      internalID: 650293743108137923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 390
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c62f52dbfdc9bf0800000000000000
+      internalID: -316131870344319986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 369
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f153918183f99fed0800000000000000
+      internalID: -2379695864817306337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 370
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec6507f6b268c90800000000000000
+      internalID: -7167993999287464444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 370
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da78190c07271d320800000000000000
+      internalID: 2580969890052671405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 369
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d14b09485cd664e0800000000000000
+      internalID: -1988659913696788008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 370
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506af3c8108271760800000000000000
+      internalID: 7428450097483982341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b4b3d0166097cc0800000000000000
+      internalID: -3712929403886679191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 370
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fe116e8cfdbcbc0800000000000000
+      internalID: -3761667009791529096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 370
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccf03696a7f14ad0800000000000000
+      internalID: -2719620405098644279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 370
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e540d75b3f577a0800000000000000
+      internalID: -6379925336288371094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 370
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70056351f2f69ee60800000000000000
+      internalID: 7992041261755682823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 350
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed952fa3a7abede70800000000000000
+      internalID: 9141949327746423262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 350
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eac5c0ae0e68b00800000000000000
+      internalID: 830598477130804840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 350
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222f63ce58c6ea010800000000000000
+      internalID: 1202017473003975202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 350
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d3f4c6ef6842cd0800000000000000
+      internalID: -2583791858906874592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 350
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeed0816a70124fd0800000000000000
+      internalID: -2359305136980828438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 350
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10605ce5df7f23e30800000000000000
+      internalID: 4481917246775821825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 350
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7c918986f8807f0800000000000000
+      internalID: -646108867136469070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 350
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aab3080e253c4530800000000000000
+      internalID: 3840503054059420325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 350
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24cd6275db8cbec0800000000000000
+      internalID: -3549808657410702293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 329
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40349be90f50699a0800000000000000
+      internalID: -6226782903779900668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 330
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7684a10b3b7cd9690800000000000000
+      internalID: -7593693822109202329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 330
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64ff31029699b640800000000000000
+      internalID: 5096270007176787051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 329
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8509f96501d5ceda0800000000000000
+      internalID: -5914249885890146216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 330
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea5cd6b16e00a10800000000000000
+      internalID: 1873750450466303589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 330
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71095714b8ea71040800000000000000
+      internalID: 4618351856013643799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 330
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8634343395332fa0800000000000000
+      internalID: -5826754586534988148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 330
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803edaafa900188a0800000000000000
+      internalID: -6304757337711320312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 330
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8fe43e898875280800000000000000
+      internalID: -9054618335575082840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 309
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b259340a9ef635ea0800000000000000
+      internalID: -5885237238836259541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 310
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74514b3cb10ae47e0800000000000000
+      internalID: -1779308761656847033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 310
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8492eaca30dcf0800000000000000
+      internalID: -229618937936704611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 310
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99245705281ad0600800000000000000
+      internalID: 436182319992488601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 310
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08dfdef827e745e0800000000000000
+      internalID: -1925316152416806901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 310
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205153c01a95807e0800000000000000
+      internalID: -1799089502905101054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 310
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41551603149eb8a70800000000000000
+      internalID: 8830407960583820564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 289
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e207365140bad20800000000000000
+      internalID: 3290728442633399963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7069a5b2f29d97220800000000000000
+      internalID: 2484255466085586439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5602f4bff2fcf4f0800000000000000
+      internalID: -793492254257707425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 290
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab819b0b6520d290800000000000000
+      internalID: -7867747407330440283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e470974c6139e40800000000000000
+      internalID: 5661894189634768391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 290
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0e58b056555d4d0800000000000000
+      internalID: -3110486075156078429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 290
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f06f71b3f1be60800000000000000
+      internalID: 7976424358721679912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_49
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 290
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce88cdb1bf22ee50800000000000000
+      internalID: 6837079624741588678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6f44b707f212340800000000000000
+      internalID: 4837199634923583206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_51
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743f58e47472947e0800000000000000
+      internalID: -1780848990434757817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 270
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71024cae47270480800000000000000
+      internalID: -8933128117015150209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 270
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db014b9bcff9a79a0800000000000000
+      internalID: -6234494826344869699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 270
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe4618195ab831a0800000000000000
+      internalID: -6829503943088386314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 270
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c64a8715dd5232a0800000000000000
+      internalID: -6759236920925337918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 249
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32db9a72915e76e40800000000000000
+      internalID: 5649736153761955107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df1c6e547dc7c7d0800000000000000
+      internalID: -2898121935505580073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3b6b48c1c41f9c0800000000000000
+      internalID: -3895248517329407011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a095dbd17dfaf50800000000000000
+      internalID: 6894966077258271307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_60
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d23041735f94d410800000000000000
+      internalID: 1500999756552352472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 205
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad782f67b15041d0800000000000000
+      internalID: -3368602672987341397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 230
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e66d2dd79618b60800000000000000
+      internalID: 7746588823183060489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 230
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0efbdccacee55690800000000000000
+      internalID: -7613917040212181493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_64
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 210
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794095c40500edcd0800000000000000
+      internalID: -2531585595657354089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 210
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e8bbfc65c479a00800000000000000
+      internalID: 763162597598662219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 210
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40491fcd7fbce9e0800000000000000
+      internalID: -1590686021302271924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 210
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926a9da6b33f5370800000000000000
+      internalID: 8313420296838865565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 189
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a207445e627255760800000000000000
+      internalID: 7445900606935691306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 190
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4ac2504d59a38b0800000000000000
+      internalID: -5171656484229176131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 190
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f073274390ddc9370800000000000000
+      internalID: 8330776442332919567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 190
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621e02170b900c2e0800000000000000
+      internalID: -2107673972192517850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_72
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 190
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8fb26fa70e72d20800000000000000
+      internalID: 3253816074519181479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 190
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f323bdf3a962680800000000000000
+      internalID: -8780160824461082841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_74
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 190
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cb4c4fe40cdbec0800000000000000
+      internalID: -3549469485951566705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_75
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 190
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e782dde82db11a0800000000000000
+      internalID: -6837640098194358639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_76
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 190
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06efcb6d54a97b920800000000000000
+      internalID: 3006040901039226464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_77
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 190
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81875ef77373797c0800000000000000
+      internalID: -4064719427170109416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 169
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015570b20c2ca12e0800000000000000
+      internalID: -2154195341131950832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 170
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef132624dd1b08e0800000000000000
+      internalID: -1726253235156344859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93143f84e11357f80800000000000000
+      internalID: -8109521547868028615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 170
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc556fab887566af0800000000000000
+      internalID: -403538871839205937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 170
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea6293cedad56b70800000000000000
+      internalID: 8891753689611660010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 170
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7ef301e048d52f0800000000000000
+      internalID: -982483947759867907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_84
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 170
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb19c4eb5c2cf3e0800000000000000
+      internalID: -2018689759776793613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_85
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 170
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210c22fd91e7f3910800000000000000
+      internalID: 1819311424063848466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_86
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 170
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5690d34be59548d40800000000000000
+      internalID: 5585687701131954533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 170
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0bd1e5b49ba0340800000000000000
+      internalID: 4830877283660968141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_88
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 170
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebfe82a68090e570800000000000000
+      internalID: 8493947805148052454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf0436da7519f7c0800000000000000
+      internalID: -4037171973637009484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 150
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40910b1a7acc0320800000000000000
+      internalID: 2525616116835913804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 150
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dbe63a644964be0800000000000000
+      internalID: -1493343195316175498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94419516c7c8c9c70800000000000000
+      internalID: 8979206222906987593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_93
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 150
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4032a2778727e9ea0800000000000000
+      internalID: -5864123803068914940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_94
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 150
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477c1e8d8601964f0800000000000000
+      internalID: -835118213399197836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_95
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 150
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee74aa9b51acc0a20800000000000000
+      internalID: 3030018843971569646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_96
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 150
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa85a621eb83310800000000000000
+      internalID: 1385065871719311990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_97
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 150
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c07bd7820037a50800000000000000
+      internalID: 6517553259643079684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_98
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a07e44a4d040a80800000000000000
+      internalID: -8501655583933920654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_99
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 130
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036097a87d554530800000000000000
+      internalID: 3838577030191932160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 130
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496633212de8a78a0800000000000000
+      internalID: -6306571295279323500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_101
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 130
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9216c023c7410510800000000000000
+      internalID: 1513569853167243935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_102
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 130
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1615477024c3240800000000000000
+      internalID: 4772762304889577956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_103
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 130
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca94d894a26f17d00800000000000000
+      internalID: 968826056344422828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 130
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281f7af32afa66660800000000000000
+      internalID: 7378778150880670082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_105
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 130
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfc5cc3a6f766d70800000000000000
+      internalID: 9036049796628336606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_106
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 130
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c15fbca347b34930800000000000000
+      internalID: 4126343184890417600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_107
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847adb918b2b0dec0800000000000000
+      internalID: -3544136402964994232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_108
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 110
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8558f0f184fab3400800000000000000
+      internalID: 305030124071257432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 110
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c22618e3cfc7eb0800000000000000
+      internalID: -4720620964002255801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_110
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 110
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7896d9b991517de40800000000000000
+      internalID: 5681032654680320391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd54422821b1c690800000000000000
+      internalID: -7583585511583490566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_112
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54979a99423a97c0800000000000000
+      internalID: -4063880422040824742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d677d7a1e1ddea0800000000000000
+      internalID: -5846483642134073971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_114
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d0c7acd9eb93680800000000000000
+      internalID: -8774772814038430344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_115
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d3c8e94c4167970800000000000000
+      internalID: 8752205760547274048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_116
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86277f7461a5ded60800000000000000
+      internalID: 7921086371357749864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_117
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 89
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b717e93be9dde00800000000000000
+      internalID: 1071186780678617860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_118
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 90
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab92ff62d4b82f330800000000000000
+      internalID: 3743207403781302714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_119
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 90
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d408aace17b0d0800000000000000
+      internalID: -3407220737331373997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_120
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 90
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e048e0a0bd515fc0800000000000000
+      internalID: -3507919621549702943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_121
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 90
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53886163c68fa2a50800000000000000
+      internalID: 6497278556082964533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674789b5368e9d650800000000000000
+      internalID: 6258288670644139126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_123
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 90
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7358cb154060af90800000000000000
+      internalID: -6944444775470181507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 90
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e542130729c8d80800000000000000
+      internalID: -8247055807063761287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_125
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 90
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d32ebfb3055c2190800000000000000
+      internalID: -7985914564644559914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_126
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 90
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c198ccc75717f7d60800000000000000
+      internalID: 7890149821595289884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_127
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 90
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c264294a9fafe0800000000000000
+      internalID: -1175551338786668023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_128
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 66
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ce705206fd4950800000000000000
+      internalID: 6435069932383159117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_129
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 70
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febae0bd59b84a8a0800000000000000
+      internalID: -6294752903415550993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_130
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9e20fd80db3490800000000000000
+      internalID: -7765383824431736231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_131
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 70
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7cfdace9a566e0800000000000000
+      internalID: -1844881638341969106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_132
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 70
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8458f787fa73c6cb0800000000000000
+      internalID: -4869455870313921208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 70
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b00cbf942373750800000000000000
+      internalID: 6284547098356484976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_134
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 70
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f1af8b8c7c1700800000000000000
+      internalID: 512421396465447925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_135
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 70
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490a675b5891229a0800000000000000
+      internalID: -6259412470025772908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_136
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7516987698b4ce0800000000000000
+      internalID: -1419890179725764646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_137
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8181863023d0c62a0800000000000000
+      internalID: -6743000033623795688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_138
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 70
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08da3ea415f9b3290800000000000000
+      internalID: -7909553149048541824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_139
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 49
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b741b27cf2b240800000000000000
+      internalID: 4806181321888479481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_140
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 50
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce16869351bfb70800000000000000
+      internalID: 8933757622128077888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_141
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73d8ca66baea4630800000000000000
+      internalID: 3912197295521190783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b73dcc1928ff1990800000000000000
+      internalID: -7412933606167988298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775e682edffba47c0800000000000000
+      internalID: -4086242614737181321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_144
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 50
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af5e87ebc7fde680800000000000000
+      internalID: -8724044448011493472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_145
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 50
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e773eb53533fdf0800000000000000
+      internalID: -147715857832247730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_146
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 50
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f51cf3cc9e207c40800000000000000
+      internalID: 5507953595111970295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_147
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68a489800a0a3040800000000000000
+      internalID: 4628022564500056170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_148
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27757591ff8d23380800000000000000
+      internalID: -8992886915752044686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_149
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 29
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a2315da0c0d23d0800000000000000
+      internalID: -3229912117090768276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_150
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 30
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be86dd47e5301460800000000000000
+      internalID: 7210322270979788465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_151
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 30
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e8e5c32465e68f0800000000000000
+      internalID: -545403662384591299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_152
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 30
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090a312163928e370800000000000000
+      internalID: 8351970821166833808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_153
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f726c4938404d60800000000000000
+      internalID: 7872371559575486357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_154
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 30
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd6851465796af30800000000000000
+      internalID: 4586519667242724859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_155
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceaff65d7fe01120800000000000000
+      internalID: 2382667524488539843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_156
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 30
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161135182bc6a47b0800000000000000
+      internalID: -5239255702562467487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_157
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 30
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48a65cd02b80810800000000000000
+      internalID: 1731829828940367089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_158
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09d5bad7b83e9cf0800000000000000
+      internalID: -243694967531906802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_159
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48acc989d4eb450e0800000000000000
+      internalID: -2281989870687827324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_160
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 10
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd3dbc39441943a0800000000000000
+      internalID: -6680786267443216972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 10
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956c753c1ad599830800000000000000
+      internalID: 4078393886909122137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_162
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 10
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355766aa4ec9cf780800000000000000
+      internalID: -8647864678532876973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_163
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 10
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76adcdaf38c95a280800000000000000
+      internalID: -9032641386958235033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_164
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01db71ec5e282b350800000000000000
+      internalID: 6031026774519299344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_165
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 10
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ee7cc2be1f90c0800000000000000
+      internalID: -4566897743846513689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morse_166
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 10
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f987cda4157bda0800000000000000
+      internalID: -5929181002441646226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Morse_0: 8943450210212800536
+      Morse_1: -623877327038670872
+      Morse_10: -1988659913696788008
+      Morse_100: -6306571295279323500
+      Morse_101: 1513569853167243935
+      Morse_102: 4772762304889577956
+      Morse_103: 968826056344422828
+      Morse_104: 7378778150880670082
+      Morse_105: 9036049796628336606
+      Morse_106: 4126343184890417600
+      Morse_107: -3544136402964994232
+      Morse_108: 305030124071257432
+      Morse_109: -4720620964002255801
+      Morse_11: 7428450097483982341
+      Morse_110: 5681032654680320391
+      Morse_111: -7583585511583490566
+      Morse_112: -4063880422040824742
+      Morse_113: -5846483642134073971
+      Morse_114: -8774772814038430344
+      Morse_115: 8752205760547274048
+      Morse_116: 7921086371357749864
+      Morse_117: 1071186780678617860
+      Morse_118: 3743207403781302714
+      Morse_119: -3407220737331373997
+      Morse_12: -3712929403886679191
+      Morse_120: -3507919621549702943
+      Morse_121: 6497278556082964533
+      Morse_122: 6258288670644139126
+      Morse_123: -6944444775470181507
+      Morse_124: -8247055807063761287
+      Morse_125: -7985914564644559914
+      Morse_126: 7890149821595289884
+      Morse_127: -1175551338786668023
+      Morse_128: 6435069932383159117
+      Morse_129: -6294752903415550993
+      Morse_13: -3761667009791529096
+      Morse_130: -7765383824431736231
+      Morse_131: -1844881638341969106
+      Morse_132: -4869455870313921208
+      Morse_133: 6284547098356484976
+      Morse_134: 512421396465447925
+      Morse_135: -6259412470025772908
+      Morse_136: -1419890179725764646
+      Morse_137: -6743000033623795688
+      Morse_138: -7909553149048541824
+      Morse_139: 4806181321888479481
+      Morse_14: -2719620405098644279
+      Morse_140: 8933757622128077888
+      Morse_141: 3912197295521190783
+      Morse_142: -7412933606167988298
+      Morse_143: -4086242614737181321
+      Morse_144: -8724044448011493472
+      Morse_145: -147715857832247730
+      Morse_146: 5507953595111970295
+      Morse_147: 4628022564500056170
+      Morse_148: -8992886915752044686
+      Morse_149: -3229912117090768276
+      Morse_15: -6379925336288371094
+      Morse_150: 7210322270979788465
+      Morse_151: -545403662384591299
+      Morse_152: 8351970821166833808
+      Morse_153: 7872371559575486357
+      Morse_154: 4586519667242724859
+      Morse_155: 2382667524488539843
+      Morse_156: -5239255702562467487
+      Morse_157: 1731829828940367089
+      Morse_158: -243694967531906802
+      Morse_159: -2281989870687827324
+      Morse_16: 7992041261755682823
+      Morse_160: -6680786267443216972
+      Morse_161: 4078393886909122137
+      Morse_162: -8647864678532876973
+      Morse_163: -9032641386958235033
+      Morse_164: 6031026774519299344
+      Morse_165: -4566897743846513689
+      Morse_166: -5929181002441646226
+      Morse_17: 9141949327746423262
+      Morse_18: 830598477130804840
+      Morse_19: 1202017473003975202
+      Morse_2: 5165201860346394016
+      Morse_20: -2583791858906874592
+      Morse_21: -2359305136980828438
+      Morse_22: 4481917246775821825
+      Morse_23: -646108867136469070
+      Morse_24: 3840503054059420325
+      Morse_25: -3549808657410702293
+      Morse_26: -6226782903779900668
+      Morse_27: -7593693822109202329
+      Morse_28: 5096270007176787051
+      Morse_29: -5914249885890146216
+      Morse_3: 8306354481605217598
+      Morse_30: 1873750450466303589
+      Morse_31: 4618351856013643799
+      Morse_32: -5826754586534988148
+      Morse_33: -6304757337711320312
+      Morse_34: -9054618335575082840
+      Morse_35: -5885237238836259541
+      Morse_36: -1779308761656847033
+      Morse_37: -229618937936704611
+      Morse_38: 436182319992488601
+      Morse_39: -1925316152416806901
+      Morse_4: 1626436714108143193
+      Morse_40: -1799089502905101054
+      Morse_41: 8830407960583820564
+      Morse_42: 3290728442633399963
+      Morse_43: 2484255466085586439
+      Morse_44: -793492254257707425
+      Morse_45: -7867747407330440283
+      Morse_46: 5661894189634768391
+      Morse_47: -3110486075156078429
+      Morse_48: 7976424358721679912
+      Morse_49: 6837079624741588678
+      Morse_5: 650293743108137923
+      Morse_50: 4837199634923583206
+      Morse_51: -1780848990434757817
+      Morse_52: -8933128117015150209
+      Morse_53: -6234494826344869699
+      Morse_54: -6829503943088386314
+      Morse_55: -6759236920925337918
+      Morse_56: 5649736153761955107
+      Morse_57: -2898121935505580073
+      Morse_58: -3895248517329407011
+      Morse_59: 6894966077258271307
+      Morse_6: -316131870344319986
+      Morse_60: 1500999756552352472
+      Morse_61: -3368602672987341397
+      Morse_62: 7746588823183060489
+      Morse_63: -7613917040212181493
+      Morse_64: -2531585595657354089
+      Morse_65: 763162597598662219
+      Morse_66: -1590686021302271924
+      Morse_67: 8313420296838865565
+      Morse_68: 7445900606935691306
+      Morse_69: -5171656484229176131
+      Morse_7: -2379695864817306337
+      Morse_70: 8330776442332919567
+      Morse_71: -2107673972192517850
+      Morse_72: 3253816074519181479
+      Morse_73: -8780160824461082841
+      Morse_74: -3549469485951566705
+      Morse_75: -6837640098194358639
+      Morse_76: 3006040901039226464
+      Morse_77: -4064719427170109416
+      Morse_78: -2154195341131950832
+      Morse_79: -1726253235156344859
+      Morse_8: -7167993999287464444
+      Morse_80: -8109521547868028615
+      Morse_81: -403538871839205937
+      Morse_82: 8891753689611660010
+      Morse_83: -982483947759867907
+      Morse_84: -2018689759776793613
+      Morse_85: 1819311424063848466
+      Morse_86: 5585687701131954533
+      Morse_87: 4830877283660968141
+      Morse_88: 8493947805148052454
+      Morse_89: -4037171973637009484
+      Morse_9: 2580969890052671405
+      Morse_90: 2525616116835913804
+      Morse_91: -1493343195316175498
+      Morse_92: 8979206222906987593
+      Morse_93: -5864123803068914940
+      Morse_94: -835118213399197836
+      Morse_95: 3030018843971569646
+      Morse_96: 1385065871719311990
+      Morse_97: 6517553259643079684
+      Morse_98: -8501655583933920654
+      Morse_99: 3838577030191932160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
