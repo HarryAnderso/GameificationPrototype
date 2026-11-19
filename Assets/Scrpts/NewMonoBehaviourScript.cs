@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
-    //public float fuckyou;
+
     
     public Answers[] answers;
 
@@ -18,7 +18,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     [SerializeField]
     private int index = 0;
     [SerializeField]
-    private float timeRemaining = 10f;
+    private float timeRemaining = 30f;
 
     public Button submit;
 
@@ -61,6 +61,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     {
         if (tanswers.text == answers[index].CorrectAnswer && index < answers.Length - 1)
         {
+            timeRemaining += 10;
            index++;
             TextHandler();
         }
